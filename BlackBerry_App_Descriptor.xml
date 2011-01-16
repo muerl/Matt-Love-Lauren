@@ -1,0 +1,24 @@
+<Properties ModelVersion="1.1.2">
+  <General Title="Matt Loves Lauren" Version="1.1" Vendor="Research In Motion Ltd." Description=""/>
+  <Application Type="BlackBerry Application" MainMIDletName="" MainArgs="" HomeScreenPosition="0" StartupTier="7" IsSystemModule="true" IsAutostartup="false"/>
+  <Resources hasTitleResource="false" TitleResourceBundleName="" TitleResourceBundleRelativePath="" TitleResourceBundleClassName="" TitleResourceBundleKey="" DescriptionId="">
+    <Icons>
+      <Icon CanonicalFileName="res\img\messagelistdemo_jde.png" IsFocus="false"/>
+    </Icons>
+  </Resources>
+  <Compile OutputCompilerMessages="false" ConvertImages="true" CreateWarningForNoExportedRoutine="true" CompressResources="false" AliasList="">
+    <PreprocessorDefines/>
+  </Compile>
+  <Packaging OutputFileName="MattLovesLauren" OutputFolder="deliverables" PreBuildStep="" PostBuildStep="" CleanStep="" GenerateALXFile="true">
+    <AlxFiles/>
+  </Packaging>
+  <HiddenProperties>
+    <ClassProtection/>
+    <PackageProtection/>
+  </HiddenProperties>
+  <AlternateEntryPoints>
+    <AlternateEntryPoint Title="Matt Loves Lauren Startup" MainMIDletName="" ArgumentsForMain="startup" HomeScreenPosition="0" StartupTier="7" IsSystemModule="true" IsAutostartup="true" hasTitleResource="false" TitleResourceBundleKey="" TitleResourceBundleName="" TitleResourceBundleClassName="" TitleResourceBundleRelativePath="">
+      <Icons/>
+    </AlternateEntryPoint>
+  </AlternateEntryPoints>
+</Properties>
